@@ -8,3 +8,5 @@ Simple snake game made as an exercise with game canvas.
 - Double click on index.html
 - Use your arrows to move
 - Press A to insert the autoplay and relax
+
+![image of gameplay](/gameplay.png)
